@@ -1,0 +1,4 @@
+.DS_Store
+./build/*
+./external_libs/
+compile_flags.txt

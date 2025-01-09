@@ -1,0 +1,3 @@
+[submodule "FW/rp2040/external_libs/pico-sdk"]
+	path = FW/rp2040/external_libs/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
