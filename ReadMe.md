@@ -3,11 +3,11 @@ The FlexiCAN device, developed by VinCSS, is an innovative automotive CAN soluti
 
 Full detail please check the document: [FlexiCAN-User-Manual-English.pdf](4.docs/FlexiCAN-User-Manual-English.pdf)
 
-![FlexiCAN](https://github.com/VinCSS-Public-Projects/FlexiCAN/blob/main/2.hardware%20design/FlexiCAN_logo.png?raw=true)
+![FlexiCAN](https://github.com/VinCSS-Public-Projects/FlexiCAN/blob/main/2.hardware/FlexiCAN_logo.png?raw=true)
 
 # Hardware
 
-![Schema](https://github.com/VinCSS-Public-Projects/FlexiCAN/blob/main/2.hardware%20design/Schema.png?raw=true)
+![Schema](https://github.com/VinCSS-Public-Projects/FlexiCAN/blob/main/2.hardware/Schema.png?raw=true)
 
 # Firmware
 
