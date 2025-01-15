@@ -19,6 +19,7 @@ STM32 is to control CAN interface
 
 Source code of STM32 we use from this link https://github.com/candle-usb/candleLight_fw
 
+
 # License 
 
 FlexiCAN is fully open source.
@@ -27,3 +28,24 @@ All software, unless otherwise noted, is dual licensed under Apache 2.0 and MIT.
 
 All hardware, unless otherwise noted, is dual licensed under CERN and CC-BY-SA. You may use FlexiCAN hardware under the terms of either the CERN 1.2 license or CC-BY-SA 4.0 license.
 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Submitting pull requests
+
+Each commit must not contain unrelated changes (e.g. functional and whitespace changes)
+Project must be compilable (with default options) and functional, at each commit.
+Squash any "WIP" or other temporary commits.
+Make sure your editor is not messing up whitespace or line-ends.
+We include both a .editorconfig and uncrustify.cfg which should help with whitespace.
+
+# Acknowledgment:
+
+FlexiCAN is built upon the foundation of many other excellent open-source projects. We would like to express our gratitude to the following contributors:
+
+Thank you @sakumisu for the projects:
+- [CherryShell](https://github.com/cherry-embedded/CherrySH), a tiny shell specifically designed for embedded applications.
+- [CherryUSB](https://github.com/cherry-embedded/CherryUSB), a tiny, beautiful, and portable USB host and device stack for embedded systems with USB IP.
+
+Thank you @Egahp for the [CherryRingBuffer](https://github.com/cherry-embedded/CherryRB) project, an efficient and easy-to-use ring buffer, especially with DMA support
+
+Thank you @marckleinebudde and the [candleLight](https://github.com/candle-usb/candleLight_fw) development team for creating such an incredibly useful project
