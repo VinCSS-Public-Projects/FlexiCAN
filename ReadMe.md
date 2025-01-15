@@ -42,10 +42,17 @@ We include both a .editorconfig and uncrustify.cfg which should help with whites
 
 FlexiCAN is built upon the foundation of many other excellent open-source projects. We would like to express our gratitude to the following contributors:
 
-Thank you @sakumisu for the projects:
+Thank you [@sakumisu](https://github.com/sakumisu) for the projects:
 - [CherryShell](https://github.com/cherry-embedded/CherrySH), a tiny shell specifically designed for embedded applications.
 - [CherryUSB](https://github.com/cherry-embedded/CherryUSB), a tiny, beautiful, and portable USB host and device stack for embedded systems with USB IP.
 
-Thank you @Egahp for the [CherryRingBuffer](https://github.com/cherry-embedded/CherryRB) project, an efficient and easy-to-use ring buffer, especially with DMA support
+Thank you [@Egahp](https://github.com/Egahp) for the [CherryRingBuffer](https://github.com/cherry-embedded/CherryRB) project, an efficient and easy-to-use ring buffer, especially with DMA support
 
-Thank you @marckleinebudde and the [candleLight](https://github.com/candle-usb/candleLight_fw) development team for creating such an incredibly useful project
+Thank you [@marckleinebudde](https://github.com/marckleinebudde) and the [candleLight](https://github.com/candle-usb/candleLight_fw) development team for creating such an incredibly useful project
+
+
+
+# Ethical and Responsible Use:
+
+This tool, FlexiCAN, is developed for educational and ethical testing purposes only.  Any misuse or illegal use of this tool is strictly prohibited. The creator of FlexiCAN  assumes no liability and is not responsible for any misuse or damage caused by this tool. 
+Users are required to comply with all applicable laws and regulations in their jurisdiction regarding network testing and ethical hacking.
