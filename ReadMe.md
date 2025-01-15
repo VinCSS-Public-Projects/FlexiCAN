@@ -38,7 +38,7 @@ Squash any "WIP" or other temporary commits.
 Make sure your editor is not messing up whitespace or line-ends.
 We include both a .editorconfig and uncrustify.cfg which should help with whitespace.
 
-# Acknowledgment:
+# Acknowledgment
 
 FlexiCAN is built upon the foundation of many other excellent open-source projects. We would like to express our gratitude to the following contributors:
 
@@ -52,7 +52,7 @@ Thank you [@marckleinebudde](https://github.com/marckleinebudde) and the [candle
 
 
 
-# Ethical and Responsible Use:
+# Ethical and Responsible Use
 
 This tool, FlexiCAN, is developed for educational and ethical testing purposes only.  Any misuse or illegal use of this tool is strictly prohibited. The creator of FlexiCAN  assumes no liability and is not responsible for any misuse or damage caused by this tool. 
 Users are required to comply with all applicable laws and regulations in their jurisdiction regarding network testing and ethical hacking.
