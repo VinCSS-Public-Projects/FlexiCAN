@@ -132,12 +132,12 @@ void menu()
         strcpy(R120, "");
       }
 
-      sprintf(buf, "High:%2d|Low:%2d|%5s", g_storage.profiles[active_id].can_high_pin[0], 
+      snprintf(buf,sizeof(buf),"High:%2d|Low:%2d|%5s", g_storage.profiles[active_id].can_high_pin[0], 
                     g_storage.profiles[active_id].can_low_pin[0], R120);
       ssd1306_draw_string(&g_display, 1, 0, 1, buf);
       if(active_k1_status)
       {
-        sprintf(buf, "<> %s", g_storage.profiles[active_id].name);
+        snprintf(buf,sizeof(buf),"<> %s", g_storage.profiles[active_id].name);
         ssd1306_draw_string(&g_display, 1, 12, 2, buf);
       }else{
         ssd1306_draw_string(&g_display, 1, 12, 2, g_storage.profiles[active_id].name);
